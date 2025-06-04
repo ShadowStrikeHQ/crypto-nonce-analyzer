@@ -1,0 +1,1 @@
+`binascii` is a built-in Python module and doesn't require separate installation via `pip`. Thus, it shouldn't be included in a requirements file or have a version constraint.
